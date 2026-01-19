@@ -1,5 +1,4 @@
 # fullstackopen
-Inmersión Profunda en el Desarrollo Web Moderno.
 
 ¡Aprende React, Redux, Node.js, MongoDB, GraphQL y TypeScript de una sola vez!  
 Este curso te presentará el desarrollo web moderno basado en JavaScript. El enfoque principal  
